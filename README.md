@@ -1,6 +1,6 @@
 ## Aviel Ovadiya
 
-**`Full Stack Developer`**
+**`👨‍💻 Full Stack Developer`**
 
 Skilled Full Stack Developer with experience in high-security, large-scale environments from Unit 8200.
 Expertise in microservices, agile development, and real-time data processing. Aiming to apply my technical and
