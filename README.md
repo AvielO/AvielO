@@ -6,6 +6,8 @@ Skilled Full Stack Developer with experience in high-security, large-scale envir
 Expertise in microservices, agile development, and real-time data processing. Aiming to apply my technical and
 collaborative skills to build secure, efficient systems that drive results.
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 
 <!--
 **AvielO/AvielO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
