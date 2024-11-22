@@ -6,7 +6,8 @@ Skilled Full Stack Developer with experience in high-security, large-scale envir
 Expertise in microservices, agile development, and real-time data processing.
 Aiming to apply my technical andcollaborative skills to build secure, efficient systems that drive results.
 
-🧰 Languages and Tools
+
+### 🧰 Languages and Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
