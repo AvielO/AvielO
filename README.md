@@ -1,4 +1,9 @@
-## Hi there 👋
+## Aviel Ovadiya
+
+Skilled Full Stack Developer with experience in high-security, large-scale environments from Unit 8200.
+Expertise in microservices, agile development, and real-time data processing. Aiming to apply my technical and
+collaborative skills to build secure, efficient systems that drive results.
+
 
 <!--
 **AvielO/AvielO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
